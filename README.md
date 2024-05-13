@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rinkesh Sahu
 - 👨🏻‍🎓 NIT Raipur 2022
+- ✨ This is my new Github account
 - 👀 I’m interested in Machine Learning and Data science
 - 🌱 I’m currently learning Computer Vision
 - 📫 You can reach me at ...
