@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/irinkesh/irinkesh/assets/159822614/17c61307-1592-484b-bfe7-7ed646195d7d)
+![image](https://github.com/irinkesh/irinkesh/assets/159822614/be00d316-73fb-47b3-af6f-d210eef706fe)
+
 
 
 
