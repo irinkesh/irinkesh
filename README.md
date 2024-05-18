@@ -11,7 +11,7 @@
 - 👨🏻‍🎓 NIT Raipur 2022
 - ✨ This is my new Github account
 - 👀 I’m interested in Machine Learning and Data science
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Generative AI
 - 📫 You can reach me at ...
   * www.linkedin.com/in/rinkeshsahu/
   * www.kaggle.com/rinkesh01
